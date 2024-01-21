@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: assets/wps_doc_0.jpeg
+background: /assets/wps_doc_0.jpeg
 class: text-center
 highlighter: shikiji
 lineNumbers: false
